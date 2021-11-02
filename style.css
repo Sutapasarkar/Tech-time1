@@ -1,0 +1,59 @@
+body {
+    font-size: 15pt;
+}
+
+h2{color: red;
+  background-color: yellowgreen;
+}
+h1{color: blue;
+  background-color: orange;
+}
+h3{color: yellow;
+  background-color: red;
+}
+input{color:blue;}
+checkbox{color: yellow;
+  background-color: orange;
+}
+body{color: yellow;}
+
+body{background: url(images1/photo.jpg);
+   background-size:280%;
+   background-position:-400px 0px;}
+   
+div.main{
+  width: 400px;
+  margin:100px auto 0px auto;
+}
+
+h2{
+      text-align: center;
+      padding: 20px;
+      font-family: sans-serif;
+}
+
+div.register{
+      background-color: rgba(0,0,0,0.5);
+      width: 100%;
+      font-size: 18px;
+     border-radius: 10px;
+     border: 1px solid rgba(255,255,0.3);
+     box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+     color: #fff;
+}
+form#register {
+   margin:40px;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+
+
+
+    
+
+
